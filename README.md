@@ -10,7 +10,7 @@
 
 <dependency>
     <groupId>com.pig4cloud.plugin</groupId>
-    <artifactId>nats-nats-streaming-spring-boot-starter</artifactId>
+    <artifactId>nats-streaming-spring-boot-starter</artifactId>
     <version>1.0.0</version>
 </dependency>
 ```
